@@ -1,5 +1,5 @@
 # Kest-V6
-# kest2_Verkefni6_oryggismal
+## kest2_Verkefni6_oryggismal
 
 
 ## 13.2.3.7 Lab – Bitlocker and Bitlocker To Go.
