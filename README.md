@@ -36,21 +36,15 @@ Answer: The domains trusted to authenticate logon attempts. So, The student migh
 ### 2. Questions:
 Policy:
    Devices: Allow undock without having to log on
-   
    Interactive logon: Message title for users attempting to log on
-   
    Change the Interactive logon: Message text for users attempting to log on
-   
    Interactive logon: Prompt user to change password before expiration
 
 
 Security Setting:
    Disabled
-   
    Caution
-   
    Your activity is monitored. This computer is for business use only.
-   
    7 days
    
    
@@ -97,19 +91,12 @@ Answer: NO.
 Answer:
 
   Staff01
-
   Staff02
-  
-  Student01
-  
+  Student01  
   Student02
-  
   test User
-  
   test User2
-  
   user1
-  
   verkuser
   
   ## Step 3:  Verify user and group permissions.
