@@ -175,7 +175,3 @@ Answer:Packet Too Big, Source Quench, Echo Recuest, Time Exceeded.
 ### What are some possible reasons you may need to make firewall changes?
 Answer: You may be required to make firewall changes to allow some apps to function correctly
 
-
-## in a file on Top
-## 13.4.1.10 Packet Tracer – Configure Wireless Security.
-## in a file on Top
